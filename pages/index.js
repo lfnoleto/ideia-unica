@@ -8,9 +8,7 @@ function Home (){
                 <a >acessar página sobre</a>
             </Link>
 
-            <Link href= "/Tempo">
-                <a >acessar página sobre</a>
-            </Link>
+           
         </div>)
 }
 
