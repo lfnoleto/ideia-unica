@@ -1,25 +1,18 @@
 {
-  "name": "ideia-unica",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "with-tailwindcss",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "dev":"next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lfnoleto/ideia-unica.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lfnoleto/ideia-unica/issues"
-  },
-  "homepage": "https://github.com/lfnoleto/ideia-unica#readme",
   "dependencies": {
-    "next": "^10.0.5",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.10",
+    "tailwindcss": "^2.0.2"
   }
 }
