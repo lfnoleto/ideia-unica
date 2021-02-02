@@ -42,7 +42,7 @@ export default function Home() {
   return (
     <div className="conteiner flex flex-col flex-1">
       <Head>
-        <title>Create Next App</title>
+        <title>Lucas Noleto</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
