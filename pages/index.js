@@ -21,7 +21,7 @@ const Banner  = () => (
   <div className="container max-w-5xl m-auto p-6 flex-1 flex flex-col justify-center items-certer sm:items-start text-center sm:text-left">
     <span className="text-gray">A criatividade é a inteligencia se divertindo.</span>
     <div className="uppdercase text-4xl font-extrabold leading-snug">
-    Desenvolva-se <span className="text-green">Ev</span> de verdade.
+    Desenvolva-se <span className="text-green">Evoluar</span> de verdade.
     </div>
     <span className="text-gray">A alegria não está nas coisas, está em nós.</span>
   </div>
