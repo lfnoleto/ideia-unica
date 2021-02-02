@@ -43,7 +43,7 @@ export default function Home() {
     <div className="conteiner flex flex-col flex-1">
       <Head>
         <title>Lucas Noleto</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/faviconn.ico" />
       </Head>
 
       <Header/>
