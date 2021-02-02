@@ -12,7 +12,8 @@ const Menu  = () => (
   <div className="p2 flex items-center ">
     <a href="http://github.com/lfnoleto" target="_blank">github</a> 
     <a href="http://instagram.com/lfnoleto" target="_blank"> Instagram </a> 
-    <a href="http://youtube.com/lfnoleto" target="_blank"> Youtube </a> 
+    <a href="http://youtube.com/lfnoleto" target="_blank"> Youtube </a>
+	<a href="https://chat.blip.ai/?appKey=c3Rvcnl0ZWxsaW5nOjgzZTYxZmIxLWI4YTAtNGU1MC1hZjk5LTIzMzNjZGYwNTdhZA==" target="_blank"> CHATBOT </a>
   </div>
 )
 
@@ -25,7 +26,6 @@ const Banner  = () => (
     <span className="text-gray">A alegria não está nas coisas, está em nós.</span>
   </div>
 )
-
 
 
 
@@ -48,6 +48,7 @@ export default function Home() {
 
       <Header/>
       <Banner/>
+	  
     </div>
   )
 }
