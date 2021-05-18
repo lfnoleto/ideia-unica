@@ -1,0 +1,278 @@
+{
+    "DF":[
+    {
+        "nome":"AY CANGUSSU - MAURO",
+        "segmento":"PROFISSIONAL",
+        "telefone":"6198422-1598",
+        "email":"simon3894@hotmail.com",
+        "Descrição":"DF"
+
+    },
+    {
+        "nome":"ADEMARIO",
+        "segmento":"PROFISSIONAL E VAREJO",
+        "telefone":"6199140-7050",
+        "email":"moreirarepresentacao@hotmail.com",
+        "Descrição":"DF"
+    },
+    {
+        "nome":"RC PIRES - RENATO",
+        "segmento":"VAREJO",
+        "telefone":"6198148-0078",
+        "email":"renatorcpires@hotmail.com",
+        "Descrição":"DF"
+    }
+    ],
+
+    "BA":[
+    {
+        "nome":"ARTFARMA - MOISES",
+        "segmento":"PROFISSIONAL",
+        "telefone":"7199144-4222",
+        "email":"artfarmarep@hotmail.com",
+        "Descrição":"BA"
+    }
+    ],
+    "CE":[
+    {
+        "nome":"JÁ FELIX - AIRTON",
+        "segmento":"PROFISSIONAL",
+        "telefone":"8599986-6899",
+        "email":"felixjose@uol.com.br",
+        "Descrição":"CE"
+    }
+    ],
+    "GO":[
+    {
+        "nome":"BRUNO LEONARDO",
+        "segmento":"VAREJO",
+        "telefone":"6298611-7208",
+        "email":"bruno.jps29@gmail.com",
+        "Descrição":"CERES/JARAGUA/RIALMA/URUAÇU"
+    },
+    {
+        "nome":"FABIO",
+        "segmento":"VAREJO",
+        "telefone":"6298440-0006",
+        "email":"fabimcerejeira@gmail.com",
+        "Descrição":"GOIANESIA"
+    },
+    {
+        "nome":"IMPERIO - ANERITO",
+        "segmento":"VAREJO",
+        "telefone":"6299974-5542",
+        "email":"anerito@hotmail.com",
+        "Descrição":"GOIANIA"
+    },
+    {
+        "nome":"SIDIMED - SIMONE",
+        "segmento":"PROFISSIONAL",
+        "telefone":"6298168-8615",
+        "email":"sidimed.simone@gmail.com",
+        "Descrição":"GOIANIA"
+    },
+    {
+        "nome":"VIVALDO ROSA",
+        "segmento":"VAREJO",
+        "telefone":"6298453-3750",
+        "email":"vivaldoagriculturapgtu@bol.com.br",
+        "Descrição":"PORANGATU"
+    },
+    {
+        "nome":"JMG - JOSE NETO",
+        "segmento":"VAREJO",
+        "telefone":"6499988-2990",
+        "email":"josenetoadms@hotmail.com",
+        "Descrição":"RIO VERDE"
+    }
+    ],
+    "ES":[
+    {
+        "nome":"HB NOGUEIRA - HEBER",
+        "segmento":"PROFISSIONAL",
+        "telefone":"2799608-7589",
+        "email":"hbnogueira@yahoo.com.br",
+        "Descrição":"ES"
+    }
+    ],
+    "MG":[
+    {
+        "nome":"HB NOGUEIRA - HEBER",
+        "segmento":"PROFISSIONAL",
+        "telefone":"3199456-2103",
+        "email":"eduardo@dumed.com.br",
+        "Descrição":"MG"
+    },
+    {
+        "nome":"MARTINS GUERRA - BRUNO",
+        "segmento":"VAREJO",
+        "telefone":"3199985-5111",
+        "email":"comercial@martinsguerra.com.br",
+        "Descrição":"MG"
+
+    }
+    ],
+    "MT":[
+    {
+        "nome":"AUDAZ REPRESENTAÇÕES - ADRIANO",
+        "segmento":"PROFISSIONAL E VAREJO",
+        "telefone":"6799221-8020",
+        "email":"adrianomoraesms@hotmail.com",
+        "Descrição":"MT"
+    }
+    ],
+    "MS":[
+    {
+        "nome":"AUDAZ REPRESENTAÇÕES - ADRIANO",
+        "segmento":"PROFISSIONAL E VAREJO",
+        "telefone":"6799221-8020",
+        "email":"adrianomoraesms@hotmail.com",
+        "Descrição":"MS"
+
+    }
+    ],
+    "PA":[
+    {
+        "nome":"COLARES E OLIVERIRA - ANNE",
+        "segmento":"PROFISSIONAL",
+        "telefone":"9198156-8759",
+        "email":"anecolares@hotmail.com",
+        "Descrição":"PA"
+    },
+    {
+        "nome":"PAES E VIANA - BRUNO",
+        "segmento":"VAREJO",
+        "telefone":"9198233-3222",
+        "email":"paesevianarep@gmail.com",
+        "Descrição":"PA"
+    }
+    ],
+    "PE":[
+    {
+        "nome":"CONEXÃO COMERCIO - DIEGO",
+        "segmento":"PROFISSIONAL",
+        "telefone":"8198785-2125",
+        "email":"truta.diego@hotmail.com",
+        "Descrição":"PE"
+    }
+    ],
+    "PI":[
+    {
+        "nome":"JOSE CARLOS JACINTO",
+        "segmento":"PROFISSIONAL",
+        "telefone":"8698802-8641",
+        "email":"jc10representacao@gmail.com",
+        "Descrição":"PI"
+    }
+    ],
+    "RJ":[
+    {
+        "nome":"DKDJ - DENIS",
+        "segmento":"PROFISSIONAL",
+        "telefone":"2199613-1710",
+        "email":"dkdj@uol.com.br",
+        "Descrição":"RJ"
+    },
+    {
+        "nome":"MARCELO",
+        "segmento":"VAREJO",
+        "telefone":"2199516-9777",
+        "email":"mrhcomercio@hotmail.com",
+        "Descrição":"RJ"
+    }
+
+    ],
+    "RN":[
+    {
+        "nome":"ALFA E OMEGA - MURILO",
+        "segmento":"PROFISSIONAL",
+        "telefone":"8499969-8651",
+        "email":"alfaomegarn@hotmail.com",
+        "Descrição":"RN"
+    }
+    ],
+    "RS":[
+    {
+        "nome":"DKDJ - DENIS",
+        "segmento":"PROFISSIONAL",
+        "telefone":"5199229-0596",
+        "email":"rogerio@3sul.com.br",
+        "Descrição":"RS"
+
+    }
+    ],
+    "SC":[
+    {
+        "nome":"DKDJ - DENIS",
+        "segmento":"PROFISSIONAL",
+        "telefone":"5199229-0596",
+        "email":"rogerio@3sul.com.br",
+        "Descrição":"SC"
+
+    },
+    {
+        "nome":"DIMPE - FABIO",
+        "segmento":"VAREJO",
+        "telefone":"2199102-1698",
+        "email":"fabio.silva@dimpe.com.br",
+        "Descrição":"SC"
+    }
+    ],
+    "PR":[
+    {
+        "nome":"DKDJ - DENIS",
+        "segmento":"PROFISSIONAL",
+        "telefone":"5199229-0596",
+        "email":"rogerio@3sul.com.br",
+        "Descrição":"PR"
+    }
+    ],
+    "SE":[
+    {
+        "nome":"CJBS - CLAUDIO",
+        "segmento":"PROFISSIONAL",
+        "telefone":"7999978-3497",
+        "email":"claudiojbs@hotmail.com",
+        "Descrição":"SE"
+    }
+    ],
+    "SP":[
+    {
+        "nome":"CJBS - CLAUDIO",
+        "segmento":"PROFISSIONAL",
+        "telefone":"1198101-1181",
+        "email":"marcos@disbelonline.com",
+        "Descrição":"SP"
+    },
+    {
+        "nome":"MONT JUIC - RUBENS",
+        "segmento":"PROFISSIONAL",
+        "telefone":"1199187-1505",
+        "email":"silvia.figueiredo@montjuic.com.br",
+        "Descrição":"SP"
+    },
+    {
+        "nome":"RS CONSULTORIA - SÃO PAULO",
+        "segmento":"VAREJO",
+        "telefone":"1197672-4719",
+        "email":"santiago@rsativos.com.br",
+        "Descrição":"SP"
+    }
+    ],
+    "TO":[
+    {
+        "nome":"CJBS - CLAUDIO",
+        "segmento":"PROFISSIONAL",
+        "telefone":"6398139-1638",
+        "email":"edson.tonin@hotmail.com",
+        "Descrição":"TO"
+    },
+    {
+        "nome":"OLIVEIRA & MACIEL - ALEXANDRE",
+        "segmento":"VAREJO",
+        "telefone":"6398405-7637",
+        "email":"alexandrerosa75@gmail.com",
+        "Descrição":"TO"
+    }
+    ]
+    }
