@@ -1,30 +1,24 @@
 import {NextApiRequest,NextApiResponse} from 'next'
-import representante from '../../../utils/respresentante.json'
+import rest  from '../../../utils/respresentante.json'
+import pesquisa from '../../../utils/pesquisa'
 
-
-const handler = async (NextApiRequest, NextApiResponse)=>{
-    
+const hundler = async(NextApiRequest,NextApiResponse)=>{
     try{
+        console.log(pesquisa) 
         const {method,query} = NextApiRequest
-       
-       
-       
-        switch(method){
+        switch (method) {
             case 'GET':
-                
-                NextApiResponse.status(200).json({representante})
+                NextApiResponse.status(200).json({rest})
                 break;
+        
             default:
-                NextApiResponse.status(405).json({message:'Mentado não suportado'}) 
-                break
+                NextApiResponse.status(405).json({mensagem:'error POST NOT'})
+                break;
         }
-       
     }catch(err){
-        NextApiResponse.status(500).json({statusCode:500,message:err.message}) 
+        NextApiResponse.status(500).json({statusCode:500,mensagem:err.message})
     }
 }
 
 
-
-
-export default handler
+export default hundler
