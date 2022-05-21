@@ -1,27 +1,18 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;700&family=Roboto:wght@100;300;400;500;700;900&family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
 
 * {
-  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 
-html,
 body {
-    @apply h-screen text-white;
+  background-color: #121214;
+  color: white;
+  text-align: -webkit-center;
 }
 
-body{
-    background: #000;
-}
-
-#__next {
-  @apply h-screen flex flex-col;
-}
-
-a, 
-a:visited {
-  @apply px-3 inline-block text-center align-middle text-white uppercase;
+a, button {
+  cursor: pointer;
 }
