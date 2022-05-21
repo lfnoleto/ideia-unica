@@ -6,7 +6,7 @@
   compiler:{
       styledComponents:true
   },
-  swcMinify: true,
+
 }
 
 module.exports = nextConfig
