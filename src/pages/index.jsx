@@ -11,7 +11,7 @@ export default function Home() {
         <Function>FullStack Developer</Function>
         <Intro>Graduado em Sistemas de Informação, 
           tenho experiência em desenvolvimento Web
-          (React, JS e outros), experienciar com automação de processo com Automation Anywhere, desevolvimento mobile.
+          (React, JS e outros), experiencia com automação de processo com Automation Anywhere, desevolvimento mobile.
         </Intro>
         <Link href="projects">
           <LinkProjects>PROJETOS <FaArrowRight /></LinkProjects>
